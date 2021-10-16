@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,9 +15,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
-</p>
+[Beautysalon.](https://guilherme4garcia.github.io/beautysalon/)
 
 ## 🚀 Tecnologias
 
